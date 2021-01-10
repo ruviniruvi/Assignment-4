@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box; 
+  }
+  
+.text {
+   display: inline-block;
+      }
+
+  .button-one{
+    border-radius: 30px;
+    background-color: #4CAF50;; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+
+  .button-two{
+   border-radius: 30px;
+    background-color: #d14747; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     }

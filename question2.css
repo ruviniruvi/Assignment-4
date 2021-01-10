@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box; 
+  }
+  
+.header-element {
+   display: inline-block;
+   background-color: rgb(192, 68, 155);
+   color: white;
+  
+      }
+
